@@ -1,0 +1,89 @@
+body{
+    background-color: #444;
+    color:white;
+}
+
+.warning{
+    color: red;
+    font-weight: 800px;
+    font-size: 50px;
+}
+
+.theblock{
+    font-style: italic;
+}
+
+.allitems{
+    color:lightgreen;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-color: grey;
+    font-weight: bolder;
+    font-family: arial;
+    font-size: 25px;
+}
+
+.hash{
+    background-color: white;
+    color: black;
+}
+
+.item{
+    background-color: white;
+    color: black;
+}
+
+.price{
+    background-color: white;
+    color: black;
+}
+
+.cat{
+    background-color: white;
+    color: black;
+}
+
+.InStock{
+    background-color: white;
+    color: black;
+}
+
+.itemid{
+    text-decoration: underline;
+}
+
+.itemprice{
+    color: lightgreen;
+    text-decoration: underline;
+}
+
+.new{
+    color: lightgreen;
+    text-decoration: underline;
+}
+
+.itemoutofstock{
+    color: red;
+    text-decoration: underline;
+}
+.Instock{
+    text-align: right;
+    color: lightgreen;
+}
+
+.OutOfstock{
+    text-align: right;
+    color: red;
+}
+
+.notice{
+    color: red;
+}
+
+.note2{
+    text-align: right;
+    font-weight: bolder;
+}
+
