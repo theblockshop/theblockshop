@@ -45,7 +45,7 @@ table, th, td {
     color: black;
 }
 
-.InStock{
+.InStockQuestion{
     background-color: white;
     color: black;
 }
@@ -64,10 +64,6 @@ table, th, td {
     text-decoration: underline;
 }
 
-.itemoutofstock{
-    color: red;
-    text-decoration: underline;
-}
 .Instock{
     text-align: right;
     color: lightgreen;
